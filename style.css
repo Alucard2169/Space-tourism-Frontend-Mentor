@@ -19,6 +19,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background: url("https://raw.githubusercontent.com/Alucard2169/Testimonials-slider-FrontEnd-Mentor/b245ed73592e5f837c0aa438183cc53ffd77002b/images/pattern-curve.svg") no-repeat left bottom;
 }
 
 .profile-pic {
@@ -30,7 +31,7 @@ body {
 .profile-pic::after {
     content: ' ';
     position: absolute;
-    background: url("/images/pattern-bg.svg") no-repeat;
+    background: url("https://raw.githubusercontent.com/Alucard2169/Testimonials-slider-FrontEnd-Mentor/b245ed73592e5f837c0aa438183cc53ffd77002b/images/pattern-bg.svg") no-repeat;
     background-size: contain;
     width: 120%;
     height: 120%;
@@ -75,7 +76,7 @@ button img {
 }
 
 .info {
-    background: url("/images/pattern-quotes.svg") no-repeat top;
+    background: url("https://raw.githubusercontent.com/Alucard2169/Testimonials-slider-FrontEnd-Mentor/b245ed73592e5f837c0aa438183cc53ffd77002b/images/pattern-quotes.svg") no-repeat top;
     background-size: 20%;
     text-align: center;
     margin-top: 1rem;
