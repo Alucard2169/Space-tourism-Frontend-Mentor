@@ -2,7 +2,7 @@ let data = [
     {
         id: 1,
         alt: "Tanya Profile Picture",
-        img: "/images/image-tanya.jpg",
+        img: "https://github.com/Alucard2169/Testimonials-slider-FrontEnd-Mentor/blob/main/images/image-tanya.jpg?raw=true",
         test: `"I've been interested in coding for a while but never taken the jump, until now. I couldn't recommend this course enough. I'm now in the job of my dreams and so excited about the future."`,
         name: "Tanya Sinclair",
         occ:"UX Engineer",
@@ -10,7 +10,7 @@ let data = [
     {
         id: 2,
         alt: "John profile picture",
-        img: "/images/image-john.jpg",
+        img: "https://github.com/Alucard2169/Testimonials-slider-FrontEnd-Mentor/blob/main/images/image-john.jpg?raw=true",
         test: `" If you want to lay the best foundation possible I'd recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. "`,
         name: "John Tarkpor",
         occ:"Junior Front-end Developer",
